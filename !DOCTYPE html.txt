@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<index.html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -46,7 +46,7 @@
             <div class="flex justify-between items-center">
                 <div class="flex items-center space-x-2">
                     <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/a9aa4dc5-4a5e-4a96-860e-2e7354af6488.png" alt="Company logo featuring a gold coin with upward growth arrow in blue circle" class="rounded-full" />
-                    <span class="text-xl font-bold">ProfitPeCharcha</span>
+                    <span class="text-xl font-bold">Rudravani</span>
                 </div>
                 <div class="hidden md:flex items-center space-x-6">
                     <a href="#" class="hover:text-gray-200">Home</a>
